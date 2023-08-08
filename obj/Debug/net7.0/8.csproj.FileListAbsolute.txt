@@ -1,0 +1,15 @@
+C:\Users\rex\OneDrive\Desktop\les8\8\bin\Debug\net7.0\8.exe
+C:\Users\rex\OneDrive\Desktop\les8\8\bin\Debug\net7.0\8.deps.json
+C:\Users\rex\OneDrive\Desktop\les8\8\bin\Debug\net7.0\8.runtimeconfig.json
+C:\Users\rex\OneDrive\Desktop\les8\8\bin\Debug\net7.0\8.dll
+C:\Users\rex\OneDrive\Desktop\les8\8\bin\Debug\net7.0\8.pdb
+C:\Users\rex\OneDrive\Desktop\les8\8\obj\Debug\net7.0\8.csproj.AssemblyReference.cache
+C:\Users\rex\OneDrive\Desktop\les8\8\obj\Debug\net7.0\8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rex\OneDrive\Desktop\les8\8\obj\Debug\net7.0\8.AssemblyInfoInputs.cache
+C:\Users\rex\OneDrive\Desktop\les8\8\obj\Debug\net7.0\8.AssemblyInfo.cs
+C:\Users\rex\OneDrive\Desktop\les8\8\obj\Debug\net7.0\8.csproj.CoreCompileInputs.cache
+C:\Users\rex\OneDrive\Desktop\les8\8\obj\Debug\net7.0\8.dll
+C:\Users\rex\OneDrive\Desktop\les8\8\obj\Debug\net7.0\refint\8.dll
+C:\Users\rex\OneDrive\Desktop\les8\8\obj\Debug\net7.0\8.pdb
+C:\Users\rex\OneDrive\Desktop\les8\8\obj\Debug\net7.0\8.genruntimeconfig.cache
+C:\Users\rex\OneDrive\Desktop\les8\8\obj\Debug\net7.0\ref\8.dll
